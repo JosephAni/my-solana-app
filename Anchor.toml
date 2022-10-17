@@ -8,7 +8,7 @@ mysolanaapp = "mKSvyRLwHHokEx6oXU6bfjqFU76RTf2a28BunSebaue"
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "localnet"
+cluster = "devnet"
 wallet = "/Users/josephani/.config/solana/id.json"
 
 [scripts]
